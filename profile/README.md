@@ -3,7 +3,7 @@ Community Profile
 
 **<font color='red'>This is a community organization rooted in web3</font>** 
 
-*<font color='blue'>ddedicated to fostering a vibrant, forward-thinking environment, brimming with technical acumen</font>* filled with technical prowess. 🌈
+*<font color='blue'>Ddedicated to fostering a vibrant, forward-thinking environment, brimming with technical acumen</font>* filled with technical prowess. 🌈
 
 *<font color='green'> We are deeply passionate about delving into the nuances of trending contract codes, the potential of various currencies, and the promising prospects that lie ahead</font>*. 🍿
 
