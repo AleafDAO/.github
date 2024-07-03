@@ -1,4 +1,9 @@
 # Community-Profile🌈
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 Community Profile
 
 **<font color='red'>This is a community organization rooted in web3</font>** 
