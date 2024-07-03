@@ -2,9 +2,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-Community Profile
-
-**<font color='red'>This is a community organization rooted in web3</font>** 
+**This is a community organization rooted in web3** 
 
 *<font color='blue'>Ddedicated to fostering a vibrant, forward-thinking environment, brimming with technical acumen</font>* filled with technical prowess. 🌈
 
