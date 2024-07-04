@@ -2,19 +2,19 @@
 
 ![Metrics](/github-metrics.svg)
 
-**This is a community organization rooted in web3** 
+# **This is a community organization rooted in web3** 
 
-*<font color='blue'>Ddedicated to fostering a vibrant, forward-thinking environment, brimming with technical acumen</font>* filled with technical prowess. 🌈
+## Ddedicated to fostering a vibrant, forward-thinking environment, brimming with technical acumen filled with technical prowess. 🌈
 
-*<font color='green'> We are deeply passionate about delving into the nuances of trending contract codes, the potential of various currencies, and the promising prospects that lie ahead</font>*. 🍿
+## We are deeply passionate about delving into the nuances of trending contract codes, the potential of various currencies, and the promising prospects that lie ahead . 🍿
 
-*<font color='blue'>We are a group of like-minded individuals who are eager to learn, grow, and contribute to the ever-evolving world of web3.</font>* 🍿
+## We are a group of like-minded individuals who are eager to learn, grow, and contribute to the ever-evolving world of web3. 🍿
 
-*<font color='green'> We are committed to providing a supportive and inclusive environment for all, regardless of background or experience.</font>*. 🧙
+## We are committed to providing a supportive and inclusive environment for all, regardless of background or experience. 🧙
 
-*<font color='blue'>Our vision is for every member of our community to one day acquire profoundly valuable knowledge and embark on a journey through the vast expanse of web3, emerging as a shining star in this domain.</font>*. 👩‍💻
+## Our vision is for every member of our community to one day acquire profoundly valuable knowledge and embark on a journey through the vast expanse of web3, emerging as a shining star in this domain. 👩‍💻
 
-**<font color='red'>Let's frighting together for better future!</font>**. 🌈
+## Let's frighting together for better future!. 🌈
 <!--
 
 **Here are some ideas to get you started:**
