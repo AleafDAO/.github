@@ -4,11 +4,6 @@
 </a>
 </p>
 
-<div align=center>
-<img src="/github-metrics.svg" height = "20%" alt="Metrics" width="50%">
-</div>
-
-
 # **This is a community organization rooted in web3** 
 
 ## Ddedicated to fostering a vibrant, forward-thinking environment, brimming with technical acumen filled with technical prowess. 🌈
@@ -22,6 +17,12 @@
 ## Our vision is for every member of our community to one day acquire profoundly valuable knowledge and embark on a journey through the vast expanse of web3, emerging as a shining star in this domain. 👩‍💻
 
 ## Let's frighting together for better future!. 🌈
+
+<div align=center>
+<img src="/github-metrics.svg" height = "20%" alt="Metrics" width="50%">
+</div>
+
+
 <!--
 
 **Here are some ideas to get you started:**
