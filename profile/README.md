@@ -18,9 +18,8 @@
 
 ## Let's frighting together for better future!. 🌈
 
-<div align=center>
 <img src="/github-metrics.svg" height = "20%" alt="Metrics" width="50%">
-</div>
+
 
 
 <!--
