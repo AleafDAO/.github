@@ -1,6 +1,13 @@
 # Community-Profile🌈
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=30&letterSpacing=-1px&duration=6500&pause=1000&color=64F7D3FF&background=FFF1BD00&center=true&vCenter=true&random=false&width=435&lines=GO+BIG++or++GO+HOME+!" alt="Typing SVG" />
+</a>
+</p>
 
-![Metrics](/github-metrics.svg)
+<div align=center>
+<img src="/github-metrics.svg" height = "20%" alt="Metrics" width="50%">
+</div>
+
 
 # **This is a community organization rooted in web3** 
 
